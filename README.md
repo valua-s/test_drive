@@ -7,6 +7,7 @@
 <code>source venv/Scripts/activate</code> - активируем среду<br><br>
 <code>pip install --upgrade pip</code><br>
 <code>pip install -r requirements.txt</code> - устанавливаем зависимости<br><br>
+<code>cd app/</code> - переходим в папку проекта
 <code>python main.py</code> - запускаем сервер
 <br>
 <br>
